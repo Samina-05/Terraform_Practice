@@ -1,3 +1,4 @@
+#old code
 # resource "aws_s3_bucket" "my_bucket11" {
 #     count = var.bucket_count
 #     bucket = "${var.bucket1}-${count.index}"
